@@ -1,15 +1,5 @@
 # Kyverno Architecture
 
-> Goal of this blog  
-> - Understand **how Kyverno is built internally**
-> - Understand **each Kyverno component and its responsibility**
-> - See **exactly where Kyverno fits in the Kubernetes request flow**
-> - Build a clear mental model before writing complex policies  
-
-This blog focuses on **architecture + workflow**, explained from scratch.
-
----
-
 ## Why Kyverno Architecture Matters
 
 Many people can *write* Kyverno policies.  
